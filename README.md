@@ -20,8 +20,7 @@ I'm Nikos,
 
 ---
 
-I'm a Robotics Product Engineer, currently situated in London, working for a
-cool startup called @slamcore.
+I'm a Robotics Product Engineer, currently situated in London and working at [SLAMcore](https://slamcore.com)
 
 - 🛠 I’m working on Open-Source Robotics, Automation tools, [Anki](https://apps.ankiweb.net/), [Albert](https://albertlauncher.github.io/), [Vim](https://www.vim.org/) plugins, and lots more!
 - 📖 I’m currently learning about [Rust](https://www.rust-lang.org/), 🦀, Embedded Systems, Photography, Spanish 🇪🇸,
