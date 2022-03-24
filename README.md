@@ -10,17 +10,13 @@ I'm Nikos,
 ![Twitter Followers](https://img.shields.io/twitter/follow/bergercookie12?label=Followers&logoColor=9370db&style=social)
 ![Photography](https://img.shields.io/website?down_message=%E2%9C%96&label=/photography&style=flat-square&up_color=9370db&up_message=%E2%9C%94&url=https%3A%2F%2Fbergercookie.dev/photography)
 
-<!--
-<a href="https://stackexchange.com/users/3388031"><img align="right" src="https://stackexchange.com/users/flair/3388031.png?theme=dark" width="208" height="58" alt="SO" title="SO"></a>
--->
-
 <div align="center">
 <img src="res/photo.jpg">
 </div>
 
 ---
 
-I'm a Robotics Product Engineer, currently situated in London and working at [SLAMcore](https://slamcore.com)
+I'm a Robotics Product Engineer, currently situated in London and working at [SLAMcore](https://slamcore.com) 🤖
 
 - 🛠 I’m working on Open-Source Robotics, Automation tools, [Anki](https://apps.ankiweb.net/), [Albert](https://albertlauncher.github.io/), [Vim](https://www.vim.org/) plugins, and lots more!
 - 📖 I’m currently learning about [Rust](https://www.rust-lang.org/), 🦀, Embedded Systems, Photography, Spanish 🇪🇸,
