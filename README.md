@@ -19,14 +19,14 @@ I'm Nikos,
 I'm a Robotics Product Engineer, currently situated in London and working at [SLAMcore](https://slamcore.com) 🤖
 
 - 🛠 I’m working on Open-Source Robotics, Automation tools, [Anki](https://apps.ankiweb.net/), [Albert](https://albertlauncher.github.io/), [Vim](https://www.vim.org/) plugins, and lots more!
-- 📖 I’m currently learning about [Rust](https://www.rust-lang.org/), 🦀, Embedded Systems, Photography, Spanish 🇪🇸,
+- 📖 I’m currently learning about [Rust](https://www.rust-lang.org/), 🦀, Embedded Systems, Photography 📸, Spanish 🇪🇸,
 - 📢 Ask me about my Linux setup 🐧
 - 💬 Pronouns: He/Him
 
 ## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?hide_title=true&username=bergercookie&count_private=true&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?hide_title=true&username=bergercookie&count_private=true&theme=dark&hide=rank">
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?lang_count=6&hide=c,java,tex,perl,matlab,html,css,javascript&username=bergercookie&theme=dark&layout=compact">
