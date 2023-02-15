@@ -26,7 +26,7 @@ I'm a Robotics Product Engineer, currently situated in London and working at [SL
 ## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?hide_title=true&username=bergercookie&count_private=true&theme=dark&hide=rank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&username=bergercookie&count_private=true&theme=dark">
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?lang_count=6&hide=c,java,tex,perl,matlab,html,css,javascript&username=bergercookie&theme=dark&layout=compact">
