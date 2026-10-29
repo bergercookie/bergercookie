@@ -10,10 +10,6 @@ I'm Nikos,
 ![Twitter Followers](https://img.shields.io/twitter/follow/bergercookie12?label=Followers&logoColor=9370db&style=social)
 ![Photography](https://img.shields.io/website?down_message=%E2%9C%96&label=/photography&style=flat-square&up_color=9370db&up_message=%E2%9C%94&url=https%3A%2F%2Fbergercookie.dev/photography)
 
-<div align="center">
-<img src="res/photo.jpg">
-</div>
-
 ---
 
 I'm a Robotics Product Engineer, currently situated in London and working at [SLAMcore](https://slamcore.com) 🤖
